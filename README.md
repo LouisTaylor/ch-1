@@ -13,6 +13,9 @@ There were seven images in total. Six of which were found in the HTML code, all 
 
 This title was found nested in the head element which simply read website. This was changed to provide a short, but concise description of the goals of the website, which is to provide an ehanced online pressence via the development and management of social media elements. The title "Social Media Management Services", being a full sentence rather than random terms, should come up in searches for company who wish to employ a company to manage their only social presence. 
 
+# Scouts Code
+Additionally, it is recommended to leave the code in a better spot than when you found it. The "Search Engine Optimization" button at the top of the page did not link within the HTML code. This was corrected by adding the appropiate ID tag within the src code of that section. I did not condense CSS code of like attributes for multiple elements. I thought that it was more pleasing to the eye to read descending code in a block format rather than an inline list. Had that been a preference, parts of the other code would have been done in this style. 
+
 # Credit
 
-All edits made by myself, Louis Taylor.
+All edits made by myself, Louis Taylor. 
